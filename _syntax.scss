@@ -1,3 +1,4 @@
+/* Most of this stuff should be unneccessary but I don't have the time to remove it */
 $base03:          #002b36 !default; //darkest blue
 $base02:          #073642 !default; //dark blue
 $base01:          #586e75 !default; //darkest gray
@@ -46,11 +47,13 @@ article{
 		background: #3f3f3f;
 		border: 1px solid $pre-border;
 		font-family: $font-mono;
+                color: #dcdccc;
 	}
 	code{
 		font-size: 0.9em;
 		padding: 1px 3px;
 		margin: 0 3px;
+                color: #dcdccc;
 	}
 	pre{
 		font-size: 1 / 0.9em;
@@ -171,6 +174,7 @@ figure.code{
 	}
 }
 figure.code, .gist-highlight{
+
   code, pre {
     color: #fdce93;
     background-color: #3f3f3f;
