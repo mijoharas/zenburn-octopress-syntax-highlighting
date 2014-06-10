@@ -14,7 +14,7 @@ Feel free to do whatever you want with it pull/fork/whatever, here's a licence.
 
 (The MIT License)
 
-Copyright (c) 2014 FIX
+Copyright (c) 2014 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
