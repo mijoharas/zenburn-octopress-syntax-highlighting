@@ -1,6 +1,6 @@
 # Zenburn Octopress Syntax Highlighting
 
-original `sass` file taken from [pygments-zenburn.css.sass by Arne Brasseur](https://github.com/plexus/arnebrasseur.net/blob/master/source/css/pygments-zenburn.css.sass) and [\_syntax.scss from octopress](https://github.com/plexus/arnebrasseur.net/blob/master/source/css/pygments-zenburn.css.sass). nothing I have done is clever and/or original, just thought it might be helpful.
+original `sass` file taken from [pygments-css](https://github.com/richleland/pygments-css) and [\_syntax.scss from octopress](https://github.com/plexus/arnebrasseur.net/blob/master/source/css/pygments-zenburn.css.sass). nothing I have done is clever and/or original, just thought it might be helpful.
 
 ## Instructions
 
